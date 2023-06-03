@@ -1,0 +1,5 @@
+Beomgyu Ramirez;2019;SPA;masaje;50000;False
+Soobin;2020;SPA;masaje;50000;False
+Jungkook;2013;Restaurante;carne;30000;False
+HueningKai;2002;Restaurante;carne;30000;False
+Paula;1;desayuno;waffles;80;True

@@ -1,0 +1,2 @@
+pepsi;2500;comida;habitacion
+agua;1000;comida;habitacion

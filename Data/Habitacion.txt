@@ -1,0 +1,5 @@
+1;Calle 10;ESTANDAR;true;true;true;false;100000;4 metros,adultos,1,2/1 metros,adultos,0,1
+1;Calle 10;ESTANDAR;true;true;true;false;100000;3 metros,adultos,1,2/1 metros,adultos,0,1
+2;Calle 10;SUITE;true;true;true;false;150000;3 metros,adultos,0,2/2 metros,niños,2,0
+3;Calle 10;SUITEDOBLE;true;true;true;false;300000;3 metros,adultos,1,2/3 metros,adultos,1,2
+

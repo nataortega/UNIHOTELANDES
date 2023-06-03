@@ -1,0 +1,10 @@
+Huevo;5000;desayuno;comedor
+Pincho;35000;comida;comedor
+Pizza;30000;comida;habitacion
+Carne;50000;almuerzo;comedor
+Picada;50000;almuerzo;comedor
+Pechuga;45000;almuerzo;comedor
+Waffle;15000;desayuno;habitacion
+Pancake;10000;desayuno;habitacion
+Hamburguesa;30000;comida;habitacion
+Salmon;40000;almuerzo;comedor
