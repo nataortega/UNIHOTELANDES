@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraRF",
+            "request": "launch",
+            "mainClass": "controller.CalculadoraRF",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "Sistema",
+            "request": "launch",
+            "mainClass": "controller.Sistema",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "interfaz.Login",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "ManejadorReservas",
+            "request": "launch",
+            "mainClass": "interfaz.ManejadorReservas",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "MenuAdministrador",
+            "request": "launch",
+            "mainClass": "interfaz.MenuAdministrador",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "ModificacionHabitaciones",
+            "request": "launch",
+            "mainClass": "interfaz.ModificacionHabitaciones",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "ModificacionMenu",
+            "request": "launch",
+            "mainClass": "interfaz.ModificacionMenu",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "RegistroConsumos",
+            "request": "launch",
+            "mainClass": "interfaz.RegistroConsumos",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "Consola",
+            "request": "launch",
+            "mainClass": "view.Consola",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "MenuAdministrador(1)",
+            "request": "launch",
+            "mainClass": "view.MenuAdministrador",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "ModificacionHabitaciones(1)",
+            "request": "launch",
+            "mainClass": "view.ModificacionHabitaciones",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "ModificacionesMenu",
+            "request": "launch",
+            "mainClass": "view.ModificacionesMenu",
+            "projectName": "UNIHOTELANDES"
+        },
+        {
+            "type": "java",
+            "name": "background",
+            "request": "launch",
+            "mainClass": "view.background",
+            "projectName": "UNIHOTELANDES"
+        }
+    ]
+}
